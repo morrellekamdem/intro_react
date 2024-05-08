@@ -1,10 +1,10 @@
 commande git
 
-1.git init
-2.git remote add origin <option>
-3.git pull
-4.git branch <option>
-5.git add <option>
-6.git commit <option>
-7.git push
-8.git clone <option>
+1.git init: Initialiser un projet avec git
+2.git remote add origin <option>: ajouter l'URL de liaison du projet git a notre projet dans vs code
+3.git pull: recuperer les modifications faites par un collaborateur
+4.git branch <option>:configurer les branches de notre repository
+5.git add <option>: ajouter sur github
+6.git commit <option>: valider/soumettre sur github
+7.git push <option>: publier les modifications sur github
+8.git clone <option>: cloner un projet depuis un repositor github
