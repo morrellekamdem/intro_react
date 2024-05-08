@@ -1,0 +1,10 @@
+commande git
+
+1.git init
+2.git remote add origin <option>
+3.git pull
+4.git branch <option>
+5.git add <option>
+6.git commit <option>
+7.git push
+8.git clone <option>
